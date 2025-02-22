@@ -18,8 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=albar-hossain&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67ba3370a8c88d6e3506b4ad?variant=dark&roadmaps=668fb5617d03d0bb6dc058ca%2Ccyber-security)](https://roadmap.sh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=albar-hossain&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=albar-hossain&abbreviated=true)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67ba3370a8c88d6e3506b4ad?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
