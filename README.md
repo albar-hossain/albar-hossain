@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a full fledged backend developer<br>🌱 I’m currently learning ASP .NET<br>⚡ I'm passionate about Cyber Security
+🔭 I’m currently working on becoming a Cyber Security Specialist<br>🌱 I’m currently learning for CCNA Exam<br>⚡ I'm passionate about Cyber Security
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=albar-hossain&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albar-hossain&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albar-hossain&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=albar-hossain&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=albar-hossain&limit=5&theme=radical&combine_all_yearly_contributions=true)
